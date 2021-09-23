@@ -805,10 +805,6 @@ h4 {
     border-color: #364577!important;
 }
 
-.bg-banniere {
-    background-image: url("img/la-chouette-agence-banniere.png");
-}
-
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
