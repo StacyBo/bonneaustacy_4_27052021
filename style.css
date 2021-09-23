@@ -732,7 +732,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: black!important;
 }
 
 .portfolio-thumb {
@@ -763,15 +763,15 @@ h4 {
 }
 
 .bgc-dark-slate-blue {
-    background-color: black;
+    background-color: grey;
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: grey;
 }
 
 .tc-white {
-    color: white!important;
+    color: black!important;
 }
 
 .btn-atomic-tangerine {
@@ -785,7 +785,7 @@ h4 {
 }
 
 .ltc-white {
-    color: #FFFFFF!important;
+    color: black!important;
 }
 
 .ltc-white:hover {
