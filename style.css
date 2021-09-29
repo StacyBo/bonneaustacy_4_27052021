@@ -286,6 +286,7 @@ a:hover {
 .navbar {
     margin-bottom: 0;
     z-index: 1;
+    font-size: 20px;
 }
 
 .navbar-brand {
@@ -673,7 +674,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 13px;
 }
 
 .tight-width-whitespace {
