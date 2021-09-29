@@ -749,7 +749,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: white;
     padding: 40px 40px 40px 40px;
 }
 
@@ -780,7 +780,7 @@ h4 {
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: black!important;
     color: #FFFFFF!important;
 }
 
@@ -803,6 +803,14 @@ h4 {
 .icon-dark-slate-blue {
     color: #364577!important;
     border-color: #364577!important;
+}
+
+.bg-banniere {
+    background-image: url("img/la-chouette-agence-banniere.png");
+}
+
+.bg-presentation {
+    background-image: url("img/image-de-presentation.png");
 }
 
 @media (max-width: 1024px) {
